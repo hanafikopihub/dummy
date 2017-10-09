@@ -1,9 +1,11 @@
-{"test":[
-            {
-                "id": "1",
-                "productName": "Iphone 4s",
-                "startYear": "1990",
-                "endYear": "2017",
-                "price": "200000000"
-            }]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
