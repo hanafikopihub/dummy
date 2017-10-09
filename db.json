@@ -1,4 +1,4 @@
-{"test":[
+{"test":
             {
                 "id": "1",
                 "productName": "Iphone 4s",
@@ -6,4 +6,4 @@
                 "endYear": "2017",
                 "price": "200000000"
             }
-]}
+}
